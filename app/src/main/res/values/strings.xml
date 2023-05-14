@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">OnlineShop</string>
+
+    <!-- Pantalla de Carga. -->
+    <string name="Image">logo</string>
+
+    <!-- Login up. -->
+    <string name="Gmail">   Direccion de correo electronico</string>
+    <string name="Password">Contraseña</string>
+    <string name="Boton_Iniciar">INICIAR SESION</string>
+    <string name="Text_1">¿Ha olvidado su contraseña?</string>
+    <string name="Text_2">o puede</string>
+    <string name="Link_de_Registro">Crear una Cuenta</string>
+    <string name="Link_Cambiar_Password">Restablecer Contraseña</string>
+
+    <!-- Sign Up. -->
+    <string name="Password_Confirmation">Confirme la contraseña</string>
+    <string name="Usuario">   Usuario</string>
+    <string name="Check">Acepta los</string>
+    <string name="Boton_Registrar">Registrar</string>
+    <string name="Terminos">terminos y condiciones</string>
+
+    <!-- Restablecer contraseña. -->
+    <string name="Boton_Cambiar">Cambiar</string>
+
+    <!-- Terminos. -->
+    <string name="Terminos_Condiciones">Terminos y Condiciones</string>
+    <string name="Info">DERECHOS DE AUTOR:Todo el contenido incluido o disponible a través de cualquier servicio de OnlineShop, como texto, gráficos, logotipos, iconos de botones, imágenes, descargas digitales, compilaciones de datos y software, es propiedad de OnlineShop o de sus proveedores de contenido y está protegido por las leyes de propiedad intelectual.</string>
+    <string name="Info1">ACCESO:Sujeto al cumplimiento de estos Términos y Condiciones, OnlineShop le otorga mediante SU CUENTA DE USUARIO el acceso para consumir los servicios de OnlineShop y hacer uso personal no comercial de ellos.</string>
+    <string name="Info2">SU CUENTA:Para acceder a los servicios de OnlineShop, necesitará crear una cuenta de usuario e iniciar sesión en la misma. Usted es responsable de mantener la confidencialidad y el carácter intransferible de su usuario y contraseña, y acepta la responsabilidad de todas las actividades que se realicen con la misma.</string>
+
+    <!-- Lista de Productos. -->
+    <string name="Abrigo">Abrigo</string>
+    <string name="Abrigo_precio">$23</string>
+    <string name="Blusas">Blusa</string>
+    <string name="Blusas_precio">$17</string>
+    <string name="Bufandas">Bufanda</string>
+    <string name="Bufandas_precio">$10</string>
+    <string name="Camisetas">Camiseta</string>
+    <string name="Camisetas_precio">$12</string>
+    <string name="Gorras">Gorra</string>
+    <string name="Gorras_precio">$8</string>
+    <string name="Guantes">Guantes</string>
+    <string name="Guantes_precio">$9</string>
+    <string name="Licras">Licra</string>
+    <string name="Licras_precio">$19</string>
+    <string name="Medias">Medias</string>
+    <string name="Medias_precio">$7.99</string>
+    <string name="Pantalones">Pantalones</string>
+    <string name="Pantalones_precio">$37</string>
+    <string name="Tops">Tops</string>
+    <string name="Tops_precio">$16</string>
+    <string name="Vestidos">Vestido</string>
+    <string name="Vestidos_precio">$22</string>
+    <string name="Zapatos">Zapatos</string>
+    <string name="Zapatos_precio">$48</string>
+    <string name="Precio">Precio:</string>
+    <string name="Productos">Lista de Productos</string>
+    <string name="todo">TODO</string>
+
+</resources>
